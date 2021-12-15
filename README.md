@@ -3,3 +3,6 @@
 Test
 Added a second line here
 Added a third line here
+
+Added this line to test merging
+
