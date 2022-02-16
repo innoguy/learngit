@@ -6,3 +6,4 @@ Added a third line here
 
 Added this line to test merging
 
+This was added for feature 2
